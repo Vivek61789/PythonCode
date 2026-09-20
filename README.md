@@ -52,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vivek61789/PythonCode/tree/master/0013-roman-to-integer) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vivek61789/PythonCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -65,4 +66,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivek61789/PythonCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Vivek61789/PythonCode/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Vivek61789/PythonCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
