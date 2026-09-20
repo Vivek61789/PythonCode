@@ -57,4 +57,12 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Vivek61789/PythonCode/tree/master/3498-reverse-degree-of-a-string) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vivek61789/PythonCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vivek61789/PythonCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
