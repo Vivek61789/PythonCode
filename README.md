@@ -47,3 +47,14 @@
 *Last updated: 2026-07-28* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Vivek61789/PythonCode/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Vivek61789/PythonCode/tree/master/3498-reverse-degree-of-a-string) |
+<!---LeetCode Topics End-->
