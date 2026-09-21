@@ -47,3 +47,10 @@
 *Last updated: 2026-09-20* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Vivek61789/PythonCode/tree/master/1757-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
