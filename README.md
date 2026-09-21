@@ -53,4 +53,12 @@
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vivek61789/PythonCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Vivek61789/PythonCode/tree/master/0605-can-place-flowers) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Vivek61789/PythonCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
