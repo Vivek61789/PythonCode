@@ -56,9 +56,18 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Vivek61789/PythonCode/tree/master/0014-longest-common-prefix) |
 | [0605-can-place-flowers](https://github.com/Vivek61789/PythonCode/tree/master/0605-can-place-flowers) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Vivek61789/PythonCode/tree/master/0605-can-place-flowers) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vivek61789/PythonCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vivek61789/PythonCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
