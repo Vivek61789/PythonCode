@@ -74,9 +74,18 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vivek61789/PythonCode/tree/master/0002-add-two-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Vivek61789/PythonCode/tree/master/3524-find-x-value-of-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3524-find-x-value-of-array-i](https://github.com/Vivek61789/PythonCode/tree/master/3524-find-x-value-of-array-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vivek61789/PythonCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vivek61789/PythonCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
