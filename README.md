@@ -87,10 +87,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vivek61789/PythonCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Vivek61789/PythonCode/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vivek61789/PythonCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Vivek61789/PythonCode/tree/master/0021-merge-two-sorted-lists) |
 ## Hash Table
 |  |
 | ------- |
