@@ -91,6 +91,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Vivek61789/PythonCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Vivek61789/PythonCode/tree/master/0067-add-binary) |
+| [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 ## Trie
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek61789/PythonCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek61789/PythonCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -187,4 +190,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vivek61789/PythonCode/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
+## Sorting
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
