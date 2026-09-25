@@ -73,6 +73,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivek61789/PythonCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vivek61789/PythonCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vivek61789/PythonCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Vivek61789/PythonCode/tree/master/0066-plus-one) |
 | [0605-can-place-flowers](https://github.com/Vivek61789/PythonCode/tree/master/0605-can-place-flowers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek61789/PythonCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/Vivek61789/PythonCode/tree/master/3524-find-x-value-of-array-i) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vivek61789/PythonCode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Vivek61789/PythonCode/tree/master/0066-plus-one) |
 | [3524-find-x-value-of-array-i](https://github.com/Vivek61789/PythonCode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vivek61789/PythonCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
