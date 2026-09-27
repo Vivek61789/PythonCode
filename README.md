@@ -209,6 +209,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vivek61789/PythonCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
@@ -218,12 +219,15 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vivek61789/PythonCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vivek61789/PythonCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vivek61789/PythonCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
