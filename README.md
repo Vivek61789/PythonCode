@@ -208,9 +208,22 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Vivek61789/PythonCode/tree/master/0101-symmetric-tree) |
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Vivek61789/PythonCode/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Vivek61789/PythonCode/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Vivek61789/PythonCode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
