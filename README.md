@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek61789/PythonCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Vivek61789/PythonCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Vivek61789/PythonCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -124,6 +125,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vivek61789/PythonCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Vivek61789/PythonCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Vivek61789/PythonCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vivek61789/PythonCode/tree/master/0119-pascals-triangle-ii) |
@@ -167,6 +169,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vivek61789/PythonCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivek61789/PythonCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vivek61789/PythonCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -264,4 +267,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vivek61789/PythonCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vivek61789/PythonCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
