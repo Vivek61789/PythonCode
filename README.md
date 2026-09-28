@@ -77,6 +77,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vivek61789/PythonCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Vivek61789/PythonCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivek61789/PythonCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vivek61789/PythonCode/tree/master/0027-remove-element) |
@@ -172,6 +173,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vivek61789/PythonCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Vivek61789/PythonCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Vivek61789/PythonCode/tree/master/0069-sqrtx) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek61789/PythonCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -256,6 +258,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vivek61789/PythonCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vivek61789/PythonCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
