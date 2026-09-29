@@ -52,6 +52,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Vivek61789/PythonCode/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Vivek61789/PythonCode/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/Vivek61789/PythonCode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Vivek61789/PythonCode/tree/master/0197-rising-temperature) |
