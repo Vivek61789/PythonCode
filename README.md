@@ -135,6 +135,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Vivek61789/PythonCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Vivek61789/PythonCode/tree/master/0067-add-binary) |
+| [0443-string-compression](https://github.com/Vivek61789/PythonCode/tree/master/0443-string-compression) |
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vivek61789/PythonCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -208,6 +209,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivek61789/PythonCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vivek61789/PythonCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0443-string-compression](https://github.com/Vivek61789/PythonCode/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
 | ------- |
