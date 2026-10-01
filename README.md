@@ -140,6 +140,7 @@
 | [0067-add-binary](https://github.com/Vivek61789/PythonCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Vivek61789/PythonCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Vivek61789/PythonCode/tree/master/0443-string-compression) |
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vivek61789/PythonCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -167,6 +168,7 @@
 | [0118-pascals-triangle](https://github.com/Vivek61789/PythonCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vivek61789/PythonCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivek61789/PythonCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Vivek61789/PythonCode/tree/master/0392-is-subsequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vivek61789/PythonCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Vivek61789/PythonCode/tree/master/3524-find-x-value-of-array-i) |
 ## Linked List
@@ -217,6 +219,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Vivek61789/PythonCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Vivek61789/PythonCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Vivek61789/PythonCode/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
