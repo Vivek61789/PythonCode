@@ -115,6 +115,7 @@
 | [0118-pascals-triangle](https://github.com/Vivek61789/PythonCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vivek61789/PythonCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivek61789/PythonCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/Vivek61789/PythonCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vivek61789/PythonCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Vivek61789/PythonCode/tree/master/0605-can-place-flowers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek61789/PythonCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -214,6 +215,7 @@
 | [0027-remove-element](https://github.com/Vivek61789/PythonCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Vivek61789/PythonCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Vivek61789/PythonCode/tree/master/0443-string-compression) |
 ## Binary Search
