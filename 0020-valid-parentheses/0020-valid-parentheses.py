@@ -14,7 +14,6 @@ class Solution(object):
             else:
                 if not stack or stack[-1] != pairs[char]:
                     return False
-
                 stack.pop()
 
         return len(stack) == 0
