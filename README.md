@@ -122,6 +122,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Vivek61789/PythonCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Vivek61789/PythonCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek61789/PythonCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/Vivek61789/PythonCode/tree/master/1207-unique-number-of-occurrences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vivek61789/PythonCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek61789/PythonCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vivek61789/PythonCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -200,6 +201,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek61789/PythonCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/Vivek61789/PythonCode/tree/master/1207-unique-number-of-occurrences) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek61789/PythonCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vivek61789/PythonCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Vivek61789/PythonCode/tree/master/2215-find-the-difference-of-two-arrays) |
