@@ -203,6 +203,7 @@
 | [0206-reverse-linked-list](https://github.com/Vivek61789/PythonCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vivek61789/PythonCode/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vivek61789/PythonCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vivek61789/PythonCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -241,6 +242,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivek61789/PythonCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vivek61789/PythonCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Vivek61789/PythonCode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
@@ -267,6 +269,7 @@
 | [0443-string-compression](https://github.com/Vivek61789/PythonCode/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vivek61789/PythonCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vivek61789/PythonCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vivek61789/PythonCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
