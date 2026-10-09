@@ -155,6 +155,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Vivek61789/PythonCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Vivek61789/PythonCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Vivek61789/PythonCode/tree/master/0443-string-compression) |
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vivek61789/PythonCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -202,6 +203,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vivek61789/PythonCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vivek61789/PythonCode/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/Vivek61789/PythonCode/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/Vivek61789/PythonCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Vivek61789/PythonCode/tree/master/0735-asteroid-collision) |
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vivek61789/PythonCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
