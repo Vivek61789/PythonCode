@@ -139,6 +139,7 @@
 | [0011-container-with-most-water](https://github.com/Vivek61789/PythonCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vivek61789/PythonCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Vivek61789/PythonCode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/Vivek61789/PythonCode/tree/master/0649-dota2-senate) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivek61789/PythonCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## String
 |  |
@@ -157,6 +158,7 @@
 | [0392-is-subsequence](https://github.com/Vivek61789/PythonCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Vivek61789/PythonCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Vivek61789/PythonCode/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/Vivek61789/PythonCode/tree/master/0649-dota2-senate) |
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vivek61789/PythonCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -388,6 +390,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Vivek61789/PythonCode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Vivek61789/PythonCode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
