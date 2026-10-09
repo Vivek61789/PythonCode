@@ -381,4 +381,16 @@
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Vivek61789/PythonCode/tree/master/1657-determine-if-two-strings-are-close) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Vivek61789/PythonCode/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Vivek61789/PythonCode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Vivek61789/PythonCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
