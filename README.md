@@ -200,6 +200,7 @@
 | [0002-add-two-numbers](https://github.com/Vivek61789/PythonCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vivek61789/PythonCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vivek61789/PythonCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vivek61789/PythonCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -262,6 +263,7 @@
 | [0392-is-subsequence](https://github.com/Vivek61789/PythonCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Vivek61789/PythonCode/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vivek61789/PythonCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vivek61789/PythonCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
