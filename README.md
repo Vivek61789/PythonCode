@@ -203,6 +203,7 @@
 | [0118-pascals-triangle](https://github.com/Vivek61789/PythonCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vivek61789/PythonCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivek61789/PythonCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Vivek61789/PythonCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Vivek61789/PythonCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Vivek61789/PythonCode/tree/master/0435-non-overlapping-intervals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vivek61789/PythonCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -325,6 +326,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Vivek61789/PythonCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Vivek61789/PythonCode/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/Vivek61789/PythonCode/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Vivek61789/PythonCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Simulation
 |  |
