@@ -323,6 +323,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vivek61789/PythonCode/tree/master/0067-add-binary) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Vivek61789/PythonCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Simulation
 |  |
 | ------- |
