@@ -122,6 +122,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Vivek61789/PythonCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Vivek61789/PythonCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Vivek61789/PythonCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Vivek61789/PythonCode/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek61789/PythonCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Vivek61789/PythonCode/tree/master/1207-unique-number-of-occurrences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vivek61789/PythonCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -239,6 +240,7 @@
 | [0020-valid-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Vivek61789/PythonCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Vivek61789/PythonCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Vivek61789/PythonCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Vivek61789/PythonCode/tree/master/0901-online-stock-span) |
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vivek61789/PythonCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -418,5 +420,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Vivek61789/PythonCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Vivek61789/PythonCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
