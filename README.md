@@ -130,6 +130,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Vivek61789/PythonCode/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Vivek61789/PythonCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vivek61789/PythonCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vivek61789/PythonCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/Vivek61789/PythonCode/tree/master/2352-equal-row-and-column-pairs) |
 | [3524-find-x-value-of-array-i](https://github.com/Vivek61789/PythonCode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vivek61789/PythonCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -141,6 +142,7 @@
 | [0605-can-place-flowers](https://github.com/Vivek61789/PythonCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Vivek61789/PythonCode/tree/master/0649-dota2-senate) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivek61789/PythonCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vivek61789/PythonCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
 | ------- |
@@ -278,6 +280,7 @@
 | [0069-sqrtx](https://github.com/Vivek61789/PythonCode/tree/master/0069-sqrtx) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek61789/PythonCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek61789/PythonCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vivek61789/PythonCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -339,6 +342,7 @@
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Vivek61789/PythonCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vivek61789/PythonCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vivek61789/PythonCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Tree
 |  |
 | ------- |
@@ -404,4 +408,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Vivek61789/PythonCode/tree/master/0933-number-of-recent-calls) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vivek61789/PythonCode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
