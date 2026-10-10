@@ -239,6 +239,7 @@
 | [0020-valid-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Vivek61789/PythonCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Vivek61789/PythonCode/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Vivek61789/PythonCode/tree/master/0901-online-stock-span) |
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vivek61789/PythonCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -398,6 +399,7 @@
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Vivek61789/PythonCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Vivek61789/PythonCode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -407,9 +409,14 @@
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Vivek61789/PythonCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Vivek61789/PythonCode/tree/master/0933-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vivek61789/PythonCode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Vivek61789/PythonCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
