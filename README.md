@@ -175,6 +175,7 @@
 | [0649-dota2-senate](https://github.com/Vivek61789/PythonCode/tree/master/0649-dota2-senate) |
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vivek61789/PythonCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/Vivek61789/PythonCode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1268-search-suggestions-system](https://github.com/Vivek61789/PythonCode/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vivek61789/PythonCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -212,6 +213,7 @@
 | [0392-is-subsequence](https://github.com/Vivek61789/PythonCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Vivek61789/PythonCode/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vivek61789/PythonCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1143-longest-common-subsequence](https://github.com/Vivek61789/PythonCode/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vivek61789/PythonCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vivek61789/PythonCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Vivek61789/PythonCode/tree/master/3524-find-x-value-of-array-i) |
@@ -454,4 +456,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vivek61789/PythonCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Vivek61789/PythonCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
