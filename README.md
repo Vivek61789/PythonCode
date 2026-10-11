@@ -163,6 +163,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Vivek61789/PythonCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Vivek61789/PythonCode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Vivek61789/PythonCode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vivek61789/PythonCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -201,6 +202,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Vivek61789/PythonCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Vivek61789/PythonCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Vivek61789/PythonCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Vivek61789/PythonCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vivek61789/PythonCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivek61789/PythonCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
