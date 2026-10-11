@@ -193,6 +193,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vivek61789/PythonCode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Vivek61789/PythonCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Vivek61789/PythonCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vivek61789/PythonCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vivek61789/PythonCode/tree/master/0069-sqrtx) |
@@ -204,6 +205,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vivek61789/PythonCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Vivek61789/PythonCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vivek61789/PythonCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Vivek61789/PythonCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Vivek61789/PythonCode/tree/master/0118-pascals-triangle) |
@@ -460,4 +462,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Vivek61789/PythonCode/tree/master/1143-longest-common-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vivek61789/PythonCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
