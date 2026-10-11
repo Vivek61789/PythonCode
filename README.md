@@ -137,6 +137,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vivek61789/PythonCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vivek61789/PythonCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/Vivek61789/PythonCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vivek61789/PythonCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/Vivek61789/PythonCode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vivek61789/PythonCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Greedy
@@ -444,4 +445,8 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/Vivek61789/PythonCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Vivek61789/PythonCode/tree/master/0901-online-stock-span) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vivek61789/PythonCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
