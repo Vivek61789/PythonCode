@@ -404,6 +404,7 @@
 | [0399-evaluate-division](https://github.com/Vivek61789/PythonCode/tree/master/0399-evaluate-division) |
 | [0994-rotting-oranges](https://github.com/Vivek61789/PythonCode/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vivek61789/PythonCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Vivek61789/PythonCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Sorting
 |  |
@@ -436,6 +437,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vivek61789/PythonCode/tree/master/0112-path-sum) |
 | [0399-evaluate-division](https://github.com/Vivek61789/PythonCode/tree/master/0399-evaluate-division) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vivek61789/PythonCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -537,6 +539,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Vivek61789/PythonCode/tree/master/0399-evaluate-division) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vivek61789/PythonCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Shortest Path
 |  |
 | ------- |
