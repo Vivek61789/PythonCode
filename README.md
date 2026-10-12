@@ -238,6 +238,7 @@
 | [0790-domino-and-tromino-tiling](https://github.com/Vivek61789/PythonCode/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/Vivek61789/PythonCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Vivek61789/PythonCode/tree/master/1143-longest-common-subsequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vivek61789/PythonCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vivek61789/PythonCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Vivek61789/PythonCode/tree/master/3524-find-x-value-of-array-i) |
@@ -437,6 +438,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Vivek61789/PythonCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vivek61789/PythonCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -451,6 +453,7 @@
 | [0547-number-of-provinces](https://github.com/Vivek61789/PythonCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Vivek61789/PythonCode/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vivek61789/PythonCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
 |  |
@@ -466,6 +469,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Vivek61789/PythonCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vivek61789/PythonCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -584,4 +588,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
