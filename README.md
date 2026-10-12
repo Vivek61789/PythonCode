@@ -144,6 +144,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Vivek61789/PythonCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vivek61789/PythonCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/Vivek61789/PythonCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Vivek61789/PythonCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vivek61789/PythonCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vivek61789/PythonCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3524-find-x-value-of-array-i](https://github.com/Vivek61789/PythonCode/tree/master/3524-find-x-value-of-array-i) |
@@ -315,6 +316,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vivek61789/PythonCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vivek61789/PythonCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Vivek61789/PythonCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Vivek61789/PythonCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Binary Search
 |  |
 | ------- |
@@ -367,6 +369,7 @@
 | [0735-asteroid-collision](https://github.com/Vivek61789/PythonCode/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/Vivek61789/PythonCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Vivek61789/PythonCode/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Vivek61789/PythonCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Newton's Method
 |  |
 | ------- |
@@ -475,6 +478,7 @@
 | ------- |
 | [1268-search-suggestions-system](https://github.com/Vivek61789/PythonCode/tree/master/1268-search-suggestions-system) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vivek61789/PythonCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Vivek61789/PythonCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Monotonic Stack
 |  |
 | ------- |
