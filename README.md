@@ -265,6 +265,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek61789/PythonCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vivek61789/PythonCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Vivek61789/PythonCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Vivek61789/PythonCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/Vivek61789/PythonCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vivek61789/PythonCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sliding Window
@@ -466,6 +467,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Vivek61789/PythonCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/Vivek61789/PythonCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Vivek61789/PythonCode/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Vivek61789/PythonCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -481,6 +483,7 @@
 | ------- |
 | [1268-search-suggestions-system](https://github.com/Vivek61789/PythonCode/tree/master/1268-search-suggestions-system) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vivek61789/PythonCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Vivek61789/PythonCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Vivek61789/PythonCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Vivek61789/PythonCode/tree/master/2542-maximum-subsequence-score) |
 ## Monotonic Stack
@@ -504,4 +507,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Vivek61789/PythonCode/tree/master/0374-guess-number-higher-or-lower) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Vivek61789/PythonCode/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
