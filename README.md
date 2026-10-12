@@ -117,6 +117,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Vivek61789/PythonCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivek61789/PythonCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vivek61789/PythonCode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Vivek61789/PythonCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Vivek61789/PythonCode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Vivek61789/PythonCode/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/Vivek61789/PythonCode/tree/master/0283-move-zeroes) |
@@ -318,6 +319,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Vivek61789/PythonCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Vivek61789/PythonCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Vivek61789/PythonCode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Vivek61789/PythonCode/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/Vivek61789/PythonCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek61789/PythonCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/Vivek61789/PythonCode/tree/master/1268-search-suggestions-system) |
