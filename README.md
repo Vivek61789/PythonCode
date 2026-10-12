@@ -133,6 +133,7 @@
 | [0739-daily-temperatures](https://github.com/Vivek61789/PythonCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vivek61789/PythonCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Vivek61789/PythonCode/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/Vivek61789/PythonCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek61789/PythonCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Vivek61789/PythonCode/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/Vivek61789/PythonCode/tree/master/1268-search-suggestions-system) |
@@ -397,6 +398,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vivek61789/PythonCode/tree/master/0112-path-sum) |
+| [0994-rotting-oranges](https://github.com/Vivek61789/PythonCode/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
@@ -454,6 +456,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/Vivek61789/PythonCode/tree/master/0994-rotting-oranges) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vivek61789/PythonCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/Vivek61789/PythonCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Longest Increasing Subsequence
