@@ -322,6 +322,7 @@
 | [0035-search-insert-position](https://github.com/Vivek61789/PythonCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Vivek61789/PythonCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Vivek61789/PythonCode/tree/master/0162-find-peak-element) |
+| [0374-guess-number-higher-or-lower](https://github.com/Vivek61789/PythonCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/Vivek61789/PythonCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek61789/PythonCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/Vivek61789/PythonCode/tree/master/1268-search-suggestions-system) |
@@ -491,4 +492,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vivek61789/PythonCode/tree/master/0062-unique-paths) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Vivek61789/PythonCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
