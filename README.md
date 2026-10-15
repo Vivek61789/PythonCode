@@ -112,6 +112,7 @@
 | [0027-remove-element](https://github.com/Vivek61789/PythonCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vivek61789/PythonCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Vivek61789/PythonCode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Vivek61789/PythonCode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vivek61789/PythonCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Vivek61789/PythonCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vivek61789/PythonCode/tree/master/0119-pascals-triangle-ii) |
@@ -186,6 +187,7 @@
 | [0058-length-of-last-word](https://github.com/Vivek61789/PythonCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Vivek61789/PythonCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Vivek61789/PythonCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Vivek61789/PythonCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Vivek61789/PythonCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vivek61789/PythonCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -401,6 +403,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivek61789/PythonCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Vivek61789/PythonCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Vivek61789/PythonCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Vivek61789/PythonCode/tree/master/0216-combination-sum-iii) |
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
@@ -456,6 +459,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Vivek61789/PythonCode/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/Vivek61789/PythonCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0110-balanced-binary-tree) |
@@ -509,6 +513,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Vivek61789/PythonCode/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/Vivek61789/PythonCode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Vivek61789/PythonCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vivek61789/PythonCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
