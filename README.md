@@ -112,6 +112,7 @@
 | [0027-remove-element](https://github.com/Vivek61789/PythonCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vivek61789/PythonCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Vivek61789/PythonCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Vivek61789/PythonCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vivek61789/PythonCode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vivek61789/PythonCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Vivek61789/PythonCode/tree/master/0118-pascals-triangle) |
@@ -377,6 +378,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vivek61789/PythonCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Vivek61789/PythonCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Vivek61789/PythonCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Vivek61789/PythonCode/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Vivek61789/PythonCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -403,6 +405,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivek61789/PythonCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Vivek61789/PythonCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vivek61789/PythonCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Vivek61789/PythonCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Vivek61789/PythonCode/tree/master/0216-combination-sum-iii) |
