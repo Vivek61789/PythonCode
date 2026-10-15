@@ -111,6 +111,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivek61789/PythonCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vivek61789/PythonCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vivek61789/PythonCode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/Vivek61789/PythonCode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Vivek61789/PythonCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Vivek61789/PythonCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vivek61789/PythonCode/tree/master/0079-word-search) |
@@ -405,6 +406,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivek61789/PythonCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Vivek61789/PythonCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Vivek61789/PythonCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vivek61789/PythonCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Vivek61789/PythonCode/tree/master/0131-palindrome-partitioning) |
@@ -628,4 +630,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vivek61789/PythonCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Vivek61789/PythonCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
