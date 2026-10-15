@@ -186,6 +186,7 @@
 | [0058-length-of-last-word](https://github.com/Vivek61789/PythonCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Vivek61789/PythonCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Vivek61789/PythonCode/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/Vivek61789/PythonCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vivek61789/PythonCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -234,6 +235,7 @@
 | [0118-pascals-triangle](https://github.com/Vivek61789/PythonCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vivek61789/PythonCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivek61789/PythonCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Vivek61789/PythonCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Vivek61789/PythonCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Vivek61789/PythonCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Vivek61789/PythonCode/tree/master/0392-is-subsequence) |
@@ -399,6 +401,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivek61789/PythonCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Vivek61789/PythonCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Vivek61789/PythonCode/tree/master/0216-combination-sum-iii) |
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
