@@ -242,6 +242,7 @@
 | [0118-pascals-triangle](https://github.com/Vivek61789/PythonCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vivek61789/PythonCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivek61789/PythonCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vivek61789/PythonCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Vivek61789/PythonCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Vivek61789/PythonCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Vivek61789/PythonCode/tree/master/0338-counting-bits) |
@@ -458,6 +459,7 @@
 | [0110-balanced-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vivek61789/PythonCode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vivek61789/PythonCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Vivek61789/PythonCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Vivek61789/PythonCode/tree/master/0437-path-sum-iii) |
@@ -476,6 +478,7 @@
 | [0110-balanced-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vivek61789/PythonCode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vivek61789/PythonCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Vivek61789/PythonCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/Vivek61789/PythonCode/tree/master/0399-evaluate-division) |
@@ -496,6 +499,7 @@
 | [0110-balanced-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vivek61789/PythonCode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vivek61789/PythonCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Vivek61789/PythonCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Vivek61789/PythonCode/tree/master/0437-path-sum-iii) |
@@ -627,6 +631,7 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vivek61789/PythonCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Indexed Tree
 |  |
