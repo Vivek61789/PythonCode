@@ -115,6 +115,7 @@
 | [0046-permutations](https://github.com/Vivek61789/PythonCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Vivek61789/PythonCode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Vivek61789/PythonCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Vivek61789/PythonCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Vivek61789/PythonCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vivek61789/PythonCode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vivek61789/PythonCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -348,6 +349,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Vivek61789/PythonCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Vivek61789/PythonCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Vivek61789/PythonCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Vivek61789/PythonCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivek61789/PythonCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vivek61789/PythonCode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vivek61789/PythonCode/tree/master/0374-guess-number-higher-or-lower) |
@@ -528,6 +530,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Vivek61789/PythonCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Vivek61789/PythonCode/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/Vivek61789/PythonCode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Vivek61789/PythonCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
