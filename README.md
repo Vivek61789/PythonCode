@@ -125,6 +125,7 @@
 | [0136-single-number](https://github.com/Vivek61789/PythonCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivek61789/PythonCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vivek61789/PythonCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Vivek61789/PythonCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Vivek61789/PythonCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivek61789/PythonCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Vivek61789/PythonCode/tree/master/0216-combination-sum-iii) |
@@ -282,6 +283,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek61789/PythonCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivek61789/PythonCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/Vivek61789/PythonCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vivek61789/PythonCode/tree/master/0208-implement-trie-prefix-tree) |
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Vivek61789/PythonCode/tree/master/1207-unique-number-of-occurrences) |
@@ -444,6 +446,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vivek61789/PythonCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivek61789/PythonCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Vivek61789/PythonCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vivek61789/PythonCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -521,6 +524,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vivek61789/PythonCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vivek61789/PythonCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Vivek61789/PythonCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivek61789/PythonCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Vivek61789/PythonCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
@@ -549,6 +553,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vivek61789/PythonCode/tree/master/0169-majority-element) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Vivek61789/PythonCode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Design
 |  |
@@ -656,4 +661,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Vivek61789/PythonCode/tree/master/0051-n-queens) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vivek61789/PythonCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
