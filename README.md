@@ -163,6 +163,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/Vivek61789/PythonCode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vivek61789/PythonCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vivek61789/PythonCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vivek61789/PythonCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -213,6 +214,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Vivek61789/PythonCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/Vivek61789/PythonCode/tree/master/2390-removing-stars-from-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vivek61789/PythonCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Trie
 |  |
 | ------- |
@@ -391,6 +393,7 @@
 | [0338-counting-bits](https://github.com/Vivek61789/PythonCode/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Vivek61789/PythonCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vivek61789/PythonCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vivek61789/PythonCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -471,6 +474,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vivek61789/PythonCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -492,6 +496,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Vivek61789/PythonCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vivek61789/PythonCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vivek61789/PythonCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -517,6 +522,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Vivek61789/PythonCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vivek61789/PythonCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivek61789/PythonCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vivek61789/PythonCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -640,10 +646,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vivek61789/PythonCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vivek61789/PythonCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vivek61789/PythonCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vivek61789/PythonCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Algorithm X
 |  |
 | ------- |
