@@ -219,6 +219,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Vivek61789/PythonCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/Vivek61789/PythonCode/tree/master/2390-removing-stars-from-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Vivek61789/PythonCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Vivek61789/PythonCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Trie
 |  |
 | ------- |
@@ -590,6 +591,7 @@
 | [2336-smallest-number-in-infinite-set](https://github.com/Vivek61789/PythonCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Vivek61789/PythonCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Vivek61789/PythonCode/tree/master/2542-maximum-subsequence-score) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Vivek61789/PythonCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -631,10 +633,12 @@
 | [0547-number-of-provinces](https://github.com/Vivek61789/PythonCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Vivek61789/PythonCode/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vivek61789/PythonCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Vivek61789/PythonCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Vivek61789/PythonCode/tree/master/0399-evaluate-division) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Vivek61789/PythonCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
