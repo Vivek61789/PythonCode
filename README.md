@@ -166,6 +166,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vivek61789/PythonCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Vivek61789/PythonCode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vivek61789/PythonCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3665-twisted-mirror-path-count](https://github.com/Vivek61789/PythonCode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vivek61789/PythonCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Vivek61789/PythonCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Greedy
@@ -266,6 +267,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vivek61789/PythonCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vivek61789/PythonCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Vivek61789/PythonCode/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/Vivek61789/PythonCode/tree/master/3665-twisted-mirror-path-count) |
 ## Linked List
 |  |
 | ------- |
@@ -556,6 +558,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Vivek61789/PythonCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vivek61789/PythonCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/Vivek61789/PythonCode/tree/master/2352-equal-row-and-column-pairs) |
+| [3665-twisted-mirror-path-count](https://github.com/Vivek61789/PythonCode/tree/master/3665-twisted-mirror-path-count) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
