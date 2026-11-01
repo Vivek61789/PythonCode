@@ -137,6 +137,7 @@
 | [0399-evaluate-division](https://github.com/Vivek61789/PythonCode/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/Vivek61789/PythonCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vivek61789/PythonCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vivek61789/PythonCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0605-can-place-flowers](https://github.com/Vivek61789/PythonCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vivek61789/PythonCode/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vivek61789/PythonCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -237,6 +238,7 @@
 | [0069-sqrtx](https://github.com/Vivek61789/PythonCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vivek61789/PythonCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vivek61789/PythonCode/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vivek61789/PythonCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1137-n-th-tribonacci-number](https://github.com/Vivek61789/PythonCode/tree/master/1137-n-th-tribonacci-number) |
 | [3524-find-x-value-of-array-i](https://github.com/Vivek61789/PythonCode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vivek61789/PythonCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
