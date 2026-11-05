@@ -151,6 +151,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek61789/PythonCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Vivek61789/PythonCode/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/Vivek61789/PythonCode/tree/master/1268-search-suggestions-system) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vivek61789/PythonCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vivek61789/PythonCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek61789/PythonCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vivek61789/PythonCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -357,6 +358,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Vivek61789/PythonCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Vivek61789/PythonCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Vivek61789/PythonCode/tree/master/0443-string-compression) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vivek61789/PythonCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vivek61789/PythonCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vivek61789/PythonCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vivek61789/PythonCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -376,6 +378,7 @@
 | [0875-koko-eating-bananas](https://github.com/Vivek61789/PythonCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek61789/PythonCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/Vivek61789/PythonCode/tree/master/1268-search-suggestions-system) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vivek61789/PythonCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek61789/PythonCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Vivek61789/PythonCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vivek61789/PythonCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -471,6 +474,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vivek61789/PythonCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Vivek61789/PythonCode/tree/master/1096-brace-expansion-ii) |
 | [1268-search-suggestions-system](https://github.com/Vivek61789/PythonCode/tree/master/1268-search-suggestions-system) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vivek61789/PythonCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Vivek61789/PythonCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vivek61789/PythonCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Vivek61789/PythonCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
