@@ -232,6 +232,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivek61789/PythonCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Vivek61789/PythonCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/Vivek61789/PythonCode/tree/master/2390-removing-stars-from-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Vivek61789/PythonCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Vivek61789/PythonCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Vivek61789/PythonCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Trie
@@ -285,6 +286,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vivek61789/PythonCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Vivek61789/PythonCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vivek61789/PythonCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Vivek61789/PythonCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3524-find-x-value-of-array-i](https://github.com/Vivek61789/PythonCode/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Vivek61789/PythonCode/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Vivek61789/PythonCode/tree/master/3693-climbing-stairs-ii) |
@@ -380,6 +382,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vivek61789/PythonCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Vivek61789/PythonCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Vivek61789/PythonCode/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Vivek61789/PythonCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Binary Search
 |  |
 | ------- |
